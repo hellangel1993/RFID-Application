@@ -9,7 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFID Applications.Android",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFID Applications.iOS", "RFID Applications\RFID Applications.iOS\RFID Applications.iOS.csproj", "{017C8000-6F63-4524-B77E-5E536CC5E2FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFID Applications", "RFID Applications\RFID Applications\RFID Applications.csproj", "{CF903121-2759-4875-8AD6-6C6DD33610F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RFID Applications", "RFID Applications\RFID Applications\RFID Applications.csproj", "{CF903121-2759-4875-8AD6-6C6DD33610F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mercury API Net Standard", "RFID Applications\Mercury API Net Standard\Mercury API Net Standard\Mercury API Net Standard.csproj", "{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,30 @@ Global
 		{CF903121-2759-4875-8AD6-6C6DD33610F7}.Release|x86.ActiveCfg = Release|Any CPU
 		{CF903121-2759-4875-8AD6-6C6DD33610F7}.Release|x86.Build.0 = Release|Any CPU
 		{CF903121-2759-4875-8AD6-6C6DD33610F7}.Release|x86.Deploy.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|ARM.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|x64.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Debug|x86.Build.0 = Debug|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|ARM.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|ARM.Build.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|iPhone.Build.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|x64.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|x64.Build.0 = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|x86.ActiveCfg = Release|Any CPU
+		{43F3DEDF-26AF-4C29-8BC6-B6B2A740A09F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
